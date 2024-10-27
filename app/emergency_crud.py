@@ -18,7 +18,7 @@ CREATE TABLE IF NOT EXISTS hospitals (
     hospital_type INTEGER,
     capacity INTEGER,
     status_cnt INTEGER,
-    update_dt TIMESTAMP
+    update_dt TIMESTAMP 
 )
 ''')
 
